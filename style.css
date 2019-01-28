@@ -1,0 +1,84 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Nunito', sans-serif;
+}
+header{
+    background: rgb(219, 129, 129);
+    height: 150px;
+}
+header h1{
+    text-align: center;
+    padding-top: 35px;
+    font-size: 60px;
+    color: rgb(43, 41, 41);
+    text-shadow:2px 1px 2px rgb(109, 97, 97);
+}
+.container {
+    background: rgb(218, 183, 183);
+    box-shadow: 0 0 20px rgba(24, 23, 23, 0.5);
+}
+.leftPanel{
+    background: rgb(218, 183, 183);
+width: 300px;
+float: left;
+}
+.rightPanel{
+    background: rgb(218, 183, 183);
+    width: 300px;
+    float: right;
+}
+.container ul{
+    text-align: center;
+    list-style-type: none;
+    margin-top: 40px;
+}
+.container ul li{
+    margin-bottom: 100px;
+}
+.container ul li a{
+    text-decoration: none;
+    color: rgb(15, 15, 15);
+    font-size: 22px;
+    text-transform: uppercase; 
+}
+.container ul li a:hover{
+    color: rgb(0, 104, 196);
+}
+.content{
+    background: rgb(204, 197, 197);
+margin-left: 300px;
+margin-right: 300px;
+height: auto;
+}
+.main-content{
+    padding: 20px;
+    text-indent: 40px;
+    line-height:1.5;
+    font-size: 20px;
+    box-shadow:inset 0.2px 0.2px 2px 2px rgba(59, 58, 58, 0.13);
+}
+.main-content p{
+    margin: 20px 40px 20px 40px;
+}
+footer{
+    clear: both;
+    background: rgb(219, 129, 129);
+    height: 150px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(24, 23, 23, 0.5);
+}
+.connection{
+    padding-top: 50px; 
+    float: left;
+    margin-left: 130px;
+   
+}
+.connection a{
+    margin-right: 30px;
+}
+.scroll-up{
+    padding-top: 50px;
+    float: right;
+    margin-right: 150px;
+}
