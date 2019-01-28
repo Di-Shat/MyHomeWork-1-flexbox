@@ -1,2 +1,2 @@
-# MyHomeWork-1-2
+# MyHomeWork-1
  my homework
